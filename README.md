@@ -2,7 +2,7 @@
 
 ![Project Image](population_pyramid.png)
 
-> A customer data processing task using Python to help businesses gain valuable insights into customer behavior and preferences, which can inform marketing strategies and improve customer satisfaction.
+> Population analysis that reviews population demographic analysis, occupational and religious trends, predicted growth rate, and housing density which can help governments and organizations gain valuable insights into population trends, informing policy decisions and improve overall quality of life.
 
 ---
 
