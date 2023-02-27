@@ -1,6 +1,6 @@
 # Census Analysis
 
-![Project Image](age_marital.png)
+![Project Image](population_pyramid.png)
 
 > A customer data processing task using Python to help businesses gain valuable insights into customer behavior and preferences, which can inform marketing strategies and improve customer satisfaction.
 
@@ -16,7 +16,9 @@
 ---
 
 ## Description
-A customer data processing task using Python involves several steps, including data collection, cleaning, transformation, analysis, and visualization. Here's an overview of each step:
+A population analysis task using Python and Jupyter Notebook involves analyzing the distribution of age within a particular region. First, the data would be collected and cleaned, ensuring that there are no missing or inaccurate values. Then, descriptive statistics like mean, median, and mode could be calculated using Pandas. Finally, Matplotlib and Seaborn could be used to create a histogram or box plot to visualize the distribution of ages in the region.
+
+A population analysis task using Python and Jupyter Notebook may involve several steps, including data collection, cleaning, analysis, and visualization. Here's an overview of each step carried out in the task:
 
 Data Collection: The first step is to gather customer data from various sources, such as customer databases, social media platforms, and website analytics tools.
 
@@ -28,7 +30,7 @@ Data Analysis: Next, customer data will be analyzed using Python libraries like 
 
 Data Visualization: Finally, Python can be used to create visualizations that make it easier to understand and communicate the insights gained from the analysis. This can be done using libraries like Matplotlib and Seaborn to create graphs, charts, and other visualizations.
 
-Overall, a customer data processing task using Python can help businesses gain valuable insights into customer behavior and preferences, which can inform marketing strategies and improve customer satisfaction.
+Overall, a population analysis task using Python and Jupyter Notebook can help governments and organizations gain valuable insights into population trends, which can inform policy decisions and improve overall quality of life.
 
 
 #### Technologies
@@ -36,7 +38,8 @@ Overall, a customer data processing task using Python can help businesses gain v
 - Python
 - Jupyter Notebook
 - Excel
-- JSON
+- Matplotlib
+- Seaborn
 
 [Back To The Top](#customer-data-processing-project)
 
